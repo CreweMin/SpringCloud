@@ -8,6 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eureka-client" />
         <module name="eureka-server" />
+        <module name="service-ribbon" />
+        <module name="SpringCloud" />
       </profile>
     </annotationProcessing>
   </component>
